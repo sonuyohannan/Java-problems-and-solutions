@@ -1,1 +1,1 @@
-This Repository where i can share the important and interesting problems that solved in Java 
+This Repository where I can share the important and interesting problems that I solved in Java 
