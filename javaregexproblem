@@ -18,5 +18,5 @@ class Solution{
 
 class MyRegex {
     String str = "([01]?\\d{1,2}|2[0-4]\\d|25[0-5])";
-    String pattern = str + "." +  str + "." +  str + "." + dtr;
+    String pattern = str + "." +  str + "." +  str + "." + str;
 }
